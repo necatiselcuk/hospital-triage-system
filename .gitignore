@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+hospital
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
